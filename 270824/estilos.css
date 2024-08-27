@@ -1,0 +1,12 @@
+h1{color:blue; border: 1px solid cornflowerblue;}
+.parrafoRojo{
+    font-size: 33 px; background-color: seagreen; 
+    border: 3px solid seagreen;
+    padding-bottom: 120px;}
+
+.parrafoVerde{
+    color:rosybrown;
+    border-color: fuchsia;
+    border: 22px double palegreen;
+    margin: 120px;
+}
