@@ -1,0 +1,54 @@
+        /*REFRESQUE MIS CONOCIMIENTOS DE HTML JIJI*/
+p {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    color:rgb(98, 175, 223)
+}
+
+/* Cambiar la fuente solo para un elemento específico */
+h1 {
+    font-family: 'Georgia', serif;
+    text-align: center;
+    color:darkorchid
+}
+
+h3 {
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+    color: rgb(225, 91, 135);
+}
+
+/* img {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}  ME EMOCIONE Y QUERIA PONERLE UNA IMAGEN, YA ERA EXCESO*/ 
+
+body{
+    background-image: url(media/c339851d6f217b552a9d1c34825dc0d8.jpg); 
+}
+
+.sinClase{
+    background-color: mediumpurple;
+}
+td{
+    text-align: center;
+}
+.programacion{
+    background-color: indianred;
+}
+
+.ciencias{
+    background-color: mediumturquoise;
+}
+
+.electronica{
+    background-color: khaki;
+}
+
+table { /*busque como centrar la tabla*/
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse; /* Opcional: para un estilo más limpio */
+}
