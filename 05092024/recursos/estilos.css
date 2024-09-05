@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(127, 154, 202);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5em; /*el padding para centrar, 1em 16 px, separación de 5 de atoslos los lados*/
+}
+
+.fondoBlanco{
+    background-color: aliceblue;
+}
+
+.fondoVerde{
+    background-color: rgb(88, 215, 88);
+}
+
+.fondoRosa{
+    background-color: deeppink;
+}
+
+.imagen{
+    width: 150px;
+
+}
+
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(222, 107, 165);
+    font-family: monospace}
+
+.texto2{
+    font-size: 1em;
+    color: azure;
+    text-align: justify;
+}
+
+.separacion{
+    background-color: rgb(124, 205, 118);
+}
+.texto3{
+    text-align: center;
+    background-color: rgb(203, 109, 109);
+}
+
+.borde{
+    border: 10px solid wheat;
+    border-radius: 10px;
+
+}
+.fes{
+    text-align: center;
+    background-color: rgb(61, 142, 96);
+    color: rgb(247, 246, 247);
+}
+
+.bordecito{
+    border: 2px solid violet;
+    border-radius: 5em;
+}
+
+li{
+    padding: 10px;
+}
