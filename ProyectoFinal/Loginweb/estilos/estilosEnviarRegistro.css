@@ -1,0 +1,30 @@
+body {
+    background-color: #ffebee; /* Fondo rojo claro */
+}
+h1, h2 {
+    color: #b71c1c; /* Rojo oscuro para títulos */
+}
+.card {
+    background-color: #ffcdd2; /* Fondo suave de tarjeta */
+    border-radius: 10px;
+    padding: 20px;
+}
+.btn-custom {
+    background-color: #d32f2f; /* Botón rojo */
+    color: white;
+}
+.btn-custom:hover {
+    background-color: #b71c1c; /* Hover con rojo más oscuro */
+}
+.link {
+    color: #e57373; /* Color de enlaces en tono rojo */
+}
+.link:hover {
+    color: #c62828; /* Hover para enlaces */
+}
+img{
+    display: flex;
+height: 365px;
+border-radius: 8px;
+margin-left: 530px;
+}
